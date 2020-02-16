@@ -1,6 +1,6 @@
 # Finex
 
-**TODO: Add description**
+A library for doing fixed income calculations and valuations using Elixir
 
 ## Installation
 
